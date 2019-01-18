@@ -6,7 +6,7 @@ def getAnswer(answerNumber):
     elif answerNumber == 2:
         return '李雪聪明'
     elif answerNumber == 3:
-        return '李雪sb'
+        return '李雪'
     elif answerNumber == 4:
         return '李雪美丽'
 r = random.randint(1, 4)
